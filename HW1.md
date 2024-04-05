@@ -1,0 +1,11 @@
+```r
+install.packages('rtools')
+install.packages('openxlsx')
+install.packages('ggplot2')
+install.packages('data.table')
+install.packages('skimr')
+install.packages('GGally')
+install.packages('ggcorrplot')
+install.packages('forecast')
+install.packages('readxl')
+```
