@@ -8,6 +8,9 @@ Best !
 
 
 [Data Source Sheets](EVDS_whole_data.xlsx)
+[Data Source Sheets](bist.csv)
+[Data Source Sheets Zips](HW1datasets.zip)
+
 
 [HW1 HTML File](R_HW1_latest1.html)
 
