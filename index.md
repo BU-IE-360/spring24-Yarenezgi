@@ -15,3 +15,14 @@ Best !
 [HW1 Markdown File](R_HW1_latest.md)
 
 [HW1 Jupyter Notebook File](R_HW1.ipynb)
+
+
+# Project of IE360 : Solar Power Forecasting 
+
+[Project Report](360_project/IE360_project-final_form_report.ipynb)
+
+[Project Code](360_project/IE360_project-final_form_code.ipynb)
+
+[Project HTML](360_project/IE360_project-final_form_report_html.html)
+
+[Project Markdown Zip](360_project/IE360_project-final_form_report_markdown.zip)
